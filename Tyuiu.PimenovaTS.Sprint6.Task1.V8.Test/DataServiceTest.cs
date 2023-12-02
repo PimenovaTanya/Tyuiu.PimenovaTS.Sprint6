@@ -11,7 +11,7 @@ namespace Tyuiu.PimenovaTS.Sprint6.Task1.V8.Test
         public void ValidGetMassFunction()
         {
             DataService ds = new DataService();
-
+            
             int startValue = -5;
             int stopValue = 5;
 
