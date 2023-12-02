@@ -63,5 +63,10 @@ namespace Tyuiu.PimenovaTS.Sprint6.Task1.V8
         {
             MessageBox.Show("Таск 1 выполнила студентка группы ИИПб-23-2 Пименова Татьяна Сергеевна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

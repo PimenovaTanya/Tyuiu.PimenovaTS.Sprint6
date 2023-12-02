@@ -177,7 +177,8 @@ namespace Tyuiu.PimenovaTS.Sprint6.Task1.V8
             this.MaximizeBox = false;
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Спринт 6 | Таск 1 | Вариант 8 | Пименова Т. С.";
+            this.Load += new System.EventHandler(this.FormMain_Load);
             this.groupBoxCondition_PTS.ResumeLayout(false);
             this.groupBoxCondition_PTS.PerformLayout();
             this.groupBoxExit_PTS.ResumeLayout(false);
