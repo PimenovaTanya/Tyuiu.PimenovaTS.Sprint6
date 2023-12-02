@@ -149,6 +149,7 @@ namespace Tyuiu.PimenovaTS.Sprint6.Task1.V8
             this.buttonHelp_PTS.TabIndex = 3;
             this.buttonHelp_PTS.Text = "Справка";
             this.buttonHelp_PTS.UseVisualStyleBackColor = false;
+            this.buttonHelp_PTS.Click += new System.EventHandler(this.buttonHelp_PTS_Click);
             // 
             // buttonDone_PTS
             // 
